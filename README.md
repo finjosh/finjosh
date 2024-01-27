@@ -45,6 +45,12 @@ I am a developer from London, Ontario, Canada, currently in the Computer Science
 </a>
 
 <h4>Frameworks and Technologies:</h4>
+<a href="https://code.visualstudio.com/">
+	<img
+		src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"
+		style="height: 50px; width: auto"
+	/>
+</a>
 <a href="https://www.sfml-dev.org/index.php">
 	<img
 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/1200px-SFML_Logo.svg.png"
