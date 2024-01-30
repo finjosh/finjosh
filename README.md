@@ -8,8 +8,9 @@ I am a developer from London, Ontario, Canada, currently in the Computer Science
 
 <h2> My Stats </h2>
 
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=finjosh&show_icons=true&theme=transparent&hide_border=true)
-![Langauge Use](https://github-readme-stats.vercel.app/api/top-langs/?username=finjosh&theme=transparent&hide_border=true)
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=finjosh&show_icons=true&theme=tokyonight&hide_border=true\&rank_icon=github)
+![Langauge Use](https://github-readme-stats.vercel.app/api/top-langs/?username=finjosh&theme=tokyonight&hide_border=true)
+![Joshua's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=finjosh&theme=tokyonight&hide_border=true)
 
 <h2>My Experience:</h2>
 <h4>Languages:</h4>
