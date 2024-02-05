@@ -7,13 +7,13 @@
 I am a developer from London, Ontario, Canada, currently in the Computer Science program at McMaster University. I am most experienced in C++, C, and C#, with formal education in C, Python, and Elm. I am always working on a project, and a few of my most notable projects to date are my [cpp-Utilities](https://github.com/finjosh/cpp-Utilities) and [Networking Library](https://github.com/finjosh/Networking-Library), which were made in C++.
 
 <h2> My Stats </h2>
-<a href="https://github.com/finjosh">
+<p align="center" href="https://github.com/finjosh">
   <img height=200 style="text-align: center;" src="https://github-readme-stats.vercel.app/api?username=finjosh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height=200 style="text-align: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finjosh&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/finjosh" style="text-align: center;">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=finjosh&theme=tokyonight&hide_border=true" />
-</a>
+</p>
 
 <h2>My Experience:</h2>
 <h4>Languages:</h4>
