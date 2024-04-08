@@ -47,6 +47,12 @@ I am a developer from London, Ontario, Canada, currently in the Computer Science
 		style="height: 50px; width: auto"
 	/>
 </a>
+<a href="https://www.gnu.org/software/make/manual/make.html">
+	<img
+		src="https://static-00.iconduck.com/assets.00/makefile-icon-2048x1831-10j9gh4v.png"
+		style="height: 50px; width: auto"
+	/>
+</a>
 
 <h4>Frameworks and Technologies:</h4>
 <a href="https://code.visualstudio.com/">
@@ -71,6 +77,13 @@ I am a developer from London, Ontario, Canada, currently in the Computer Science
 	href="https://tgui.eu/">
 	<img
 		src="https://pbs.twimg.com/profile_images/561611228628271104/fzQgkWU5_400x400.png"
+		style="height: 50px; width: auto"
+	/>
+</a>
+<a
+	href="https://www.raylib.com/">
+	<img
+		src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png"
 		style="height: 50px; width: auto"
 	/>
 </a>
