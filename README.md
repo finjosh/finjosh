@@ -108,3 +108,9 @@ I am a developer from London, Ontario, Canada, currently in the Computer Science
 		style="height: 75px; width: auto"
 	/>
 </a>
+<a href="https://finjosh.itch.io/">
+	<img
+		src="https://cdn2.steamgriddb.com/icon_thumb/8b33ab221257b074d1d967042ad1d9d0.png"
+		style="height: 75px; width: auto"
+	/>
+</a>
