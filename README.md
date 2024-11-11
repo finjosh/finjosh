@@ -4,7 +4,7 @@
 
 ## About Me:
 
-I am a developer from London, Ontario, Canada, currently in the Computer Science program at McMaster University. I am most experienced in C++, C, and C#, with formal education in C, Python, and Elm. I am always working on a project, and a few of my most notable projects to date are my [cpp-Utilities](https://github.com/finjosh/cpp-Utilities), [Networking Library](https://github.com/finjosh/cpp-Networking-Library), and [game-framework](https://github.com/finjosh/game-framework), which were made in C++.
+I am a developer from London, Ontario, Canada, currently in the Computer Science program at McMaster University. I am most experienced in C++, C, and C#, with formal education in C, Java, and Python. I am always working on a project, and a few of my most notable projects to date are my [cpp-Utilities](https://github.com/finjosh/cpp-Utilities), [Networking Library](https://github.com/finjosh/cpp-Networking-Library), and [game-framework](https://github.com/finjosh/game-framework), which were made in C++.
 
 <h2> My Stats </h2>
 <p align="center" href="https://github.com/finjosh">
@@ -32,6 +32,12 @@ I am a developer from London, Ontario, Canada, currently in the Computer Science
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
 	<img
 		src="https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen-1024x1024.png"
+		style="height: 50px; width: auto"
+	/>
+</a>
+<a href="https://www.java.com/en/">
+	<img
+		src="https://exoticapedia.com/wp-content/uploads/2023/11/java.png"
 		style="height: 50px; width: auto"
 	/>
 </a>
