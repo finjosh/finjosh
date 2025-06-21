@@ -37,7 +37,7 @@ I am a developer from London, Ontario, Canada, currently in the Computer Science
 </a>
 <a href="https://www.java.com/en/">
 	<img
-		src="https://www.openpolicyagent.org/img/logos/integrations/opa-wasm-java.png"
+		src="https://www.openpolicyagent.org/assets/images/opa-wasm-java-f5dd86c3ef6ef3f85acf14f07bf0daa8.png"
 		style="height: 50px; width: auto"
 	/>
 </a>
