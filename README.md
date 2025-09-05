@@ -55,7 +55,7 @@ I am a developer from London, Ontario, Canada, currently in the Computer Science
 </a>
 <a href="https://www.gnu.org/software/make/manual/make.html">
 	<img
-		src="https://static-00.iconduck.com/assets.00/makefile-icon-2048x1831-10j9gh4v.png"
+		src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/makefile-1.png"
 		style="height: 50px; width: auto"
 	/>
 </a>
